@@ -4,6 +4,7 @@ import com.fs.starfarer.api.Global;
 import com.fs.starfarer.api.campaign.*;
 import com.fs.starfarer.api.campaign.listeners.DialogCreatorUI;
 import com.fs.starfarer.api.impl.campaign.RuleBasedInteractionDialogPluginImpl;
+import data.kaysaar.aotd.tot.plugins.ReflectionUtilis;
 
 public class TestInterface implements DialogCreatorUI {
     @Override
